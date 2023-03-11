@@ -1,2 +1,1 @@
-# maksymkuzmych-JSFE2022Q3
-Private repository for @maksymkuzmych
+Deploy: https://maksymkuzmych.github.io/online-zoo/pages/main/
