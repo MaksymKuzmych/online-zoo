@@ -200,7 +200,7 @@ a {
   content: url('../../../assets/images/flower.png');
   position: absolute;
   top: 10px;
-  right: -1px;
+  right: 0;
   height: 608px;
   width: 205px;
 }
